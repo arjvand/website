@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", (function(a){return {data:[{}],fetch:{"0":{home:{jobguy_text:[],company:[],discussed_company_list:[],quote:[],donate:{THE_LAST:[],THE_MOST:[]}},reviews:[],stats:{total_interview:a,total_review:a,total_user:a,total_company:a},loading:false,page:1,perPage:10}},mutations:[]}}(0)));

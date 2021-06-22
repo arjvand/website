@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/companies", (function(a){return {data:[{}],fetch:{"data-v-9468d324:0":{companies:[],page:1,perPage:18,total:0,infiniteId:1624357554160,order_by:"HOTTEST",filters:{name:a,city:a,industry:a,skill:null,benefits:[]},display:"grid"}},mutations:[]}}("")));
